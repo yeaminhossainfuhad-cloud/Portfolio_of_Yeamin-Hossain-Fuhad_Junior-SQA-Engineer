@@ -1,1 +1,8 @@
-# Portfolio_of_Yeamin-Hossain-Fuhad_Junior-SQA-Engineer
+# # Hi there, I'm Yeamin Hossain Fuhad 👋  
+
+🎯 **Aspiring Software Tester & QA Engineer**  
+💡 Exploring Manual & Automation Testing  
+🧠 Currently learning: Selenium | Postman | TestNG | Jira  
+🌱 I love ensuring software quality and user satisfaction  
+💬 Ask me about: Bug reporting, QA tools, and software testing concepts  
+📫 Reach me: [LinkedIn Profile](https://www.linkedin.com/in/yeamin-hossain-fuhad) | [Email](mailto:yeaminhossainfuhad@gmail.com) | [Portfolio](https://portfolio-yeamin-hossain-fuhad-sqa.vercel.app/) 
